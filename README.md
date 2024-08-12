@@ -29,10 +29,6 @@ I'm a BCA data science student in Crescent University<br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithul03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact" alt="Github Stats" width="400">
 </p>
 
-### Top Contibuted Repo
-<p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=vithul03&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="400">
-</p>
 <hr>
 <p align="center" style="display:flex;gap:5;">
    <a href="https://www.linkedin.com/in/vithul-sabari-b804952b3/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" height="30" style="vertical-align:top;"></a>
