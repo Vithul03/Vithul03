@@ -1,9 +1,8 @@
 ![Header](./github-header-image.png)
 
-<h1 style="color:white">Hi, I'm Mughilan.</h1>
+<h1 style="color:white">Hi, I'm Vithul.</h1>
 I'm a BCA data science student in Crescent University<br>
-Started with frontend developement in react.
-Currently learning Backend Web development in Golang.
+
 
 ## 🧰 Languages and Tools 
 <p align="center">
@@ -32,10 +31,9 @@ Currently learning Backend Web development in Golang.
 
 ### Top Contibuted Repo
 <p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="400">
+   <img src="https://github-contributor-stats.vercel.app/api?username=vithul03&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="400">
 </p>
 <hr>
 <p align="center" style="display:flex;gap:5;">
-   <a href="https://twitter.com/mughilan_t"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/ba0f2cbb8690addd525c73d340cc8e46044ee604/icons/twitter/twitter-rounded-square.svg" height="30" style="vertical-align:top;"></a>
-   <a href="https://www.linkedin.com/in/mughilan-t-209766267/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" height="30" style="vertical-align:top;"></a>
+   <a href="https://www.linkedin.com/in/vithul-sabari-b804952b3/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" height="30" style="vertical-align:top;"></a>
 </p>
